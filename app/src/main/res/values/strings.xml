@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chandaluri_Assignment03</string>
+    <string name="title_activity_hello_world">helloWorld</string>
+    <string name="title_activity_change_pin">ChangePin</string>
+</resources>
